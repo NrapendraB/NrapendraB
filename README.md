@@ -2,6 +2,7 @@
 - 👀 I’m interested in Power BI, Data Analysis and Data visulization. 
 - 🌱 I’m currently learning Python
 - 📫 Reach me on https://www.linkedin.com/in/nrapendra-banarji-37755a159/
+- Kaggle https://www.kaggle.com/nrapendrabanarji
 
 <!---
 NrapendraB/NrapendraB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
